@@ -5,7 +5,7 @@
     "description": "Young soul trying to find ikigai",
     "image": "profilepic.jpg",
     "bio": "Tech, digital arts, gaming",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Please contact me if you are interested",
     "email": "naughtydog0331@gmail.com",
     "phone": "217-979-0118",
     "address": {
@@ -55,7 +55,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My skill levels",
     "education": [
       {
         "school": "University of Southern California",
@@ -90,7 +90,7 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
+        "name": "C++",
         "level": "55%"
       },
       {
@@ -98,19 +98,19 @@
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "Java",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Python",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "HTML5",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
+        "name": "SQL",
         "level": "80%"
       }
     ]
@@ -120,26 +120,8 @@
       {
         "title": "Creating...",
         "category": "Creating...",
-        "image": "/canadian-wanderlust.jpg",
+        "image": "Pikachu.png",
         "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Creating...",
-        "category": "Creating...",
-        "image": "/fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Creating...",
-        "category": "Creating...",
-        "image": "/original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Creating...",
-        "category": "Creating...",
-        "image": "/resume-website. jpg",
-        "url": "http://www.timbakerdev.com"
       }
     ]
   },
